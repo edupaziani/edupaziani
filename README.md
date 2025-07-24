@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupaziani&layout=compact&theme=default)](https://github.com/edupaziani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupaziani&layout=compact)](https://github.com/edupaziani)
 
 ---
 
