@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **edupaziani/edupaziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)](https://github.com/SEU_USUARIO)
+
+---
+
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) | [Email](mailto:SEUEMAIL@exemplo.com)  
+🔍 Explore my work below!
