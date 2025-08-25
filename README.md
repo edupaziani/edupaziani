@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Optimization of a LoRa Radio Model Attenuation of Mangrove Areas
+- 🔭 I’m currently working on Optimizing a LoRa Radio Attenuation Model in Mangrove Areas
 - 🌱 I’m currently learning math modeling, path loss models, LoRa communication, python analysis, databases and datalogger virtualization
 - 🤔 I’m looking for help with databases for startup ideas
 - 💬 Ask me about anything
