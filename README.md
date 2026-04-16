@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Optimizing a LoRa Radio Attenuation Model in Mangrove Areas
-- 🌱 I’m currently learning math modeling, path loss models, LoRa communication, python analysis, databases and datalogger virtualization
-- 🤔 I’m looking for help with databases for startup ideas
+- 🌱 I’m currently learning statistics, imaging processing, python analysis, databases and datalogger virtualization
+- 🤔 I’m looking for help with startup ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: e199790@dac.unicamp.br
 
