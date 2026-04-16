@@ -7,8 +7,8 @@
 - 📫 How to reach me: e199790@dac.unicamp.br
 
 ### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edupaziani&layout=compact)](https://github.com/edupaziani/edupaziani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupaziani&layout=compact)](https://github.com/edupaziani/edupaziani)
 ---
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/eduardo-paziani-31619b207) | [Email](mailto:e199790@dac.unicamp.br)  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/edupaziani/) | [Email](mailto:e199790@dac.unicamp.br)  
 🔍 Explore my work below!
