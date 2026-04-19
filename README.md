@@ -7,11 +7,11 @@
 
 ## 🚀 Featured Projects
 
-### 📟 [RFID Access Control](LINK_REPOSITORIO)
+### 📟 [RFID Access Control](https://github.com/edupaziani/RFID-Telegram-Access-Control)
 * **Concept:** IoT system for real-time presence control and automated reporting.
 * **Tech:** `ESP32`, `RFID`, `Telegram API`, `C++`.
 
-### 🏥 [Beat Health App](LINK_REPOSITORIO)
+### 🏥 [Beat Health App](https://github.com/edupaziani/Beat)
 * **Concept:** Mobile wellness platform with real-time PPG heart rate monitoring.
 * **Tech:** `Java (Android)`, `Firebase`, `ESP32`, `C++`.
 
