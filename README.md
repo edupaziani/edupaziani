@@ -17,8 +17,7 @@
 
 ---
 ## 🎓 Academic Coursework (UNICAMP)
-* [Microcontrollers II](LINK) - Hardware integration and IoT.
-* [Mobile Device Programming](LINK) - Native Android and Cloud Backends.
+* [Signal Processing]([LINK](https://github.com/edupaziani/SignalProcessing)) - Academic projects on sampling, spectral analysis, and filter design using Python .
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupaziani&layout=compact)](https://github.com/edupaziani/edupaziani)
