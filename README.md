@@ -17,7 +17,7 @@
 
 ---
 ## 🎓 Academic Coursework (UNICAMP)
-* [Signal Processing]([LINK](https://github.com/edupaziani/SignalProcessing)) - Academic projects on sampling, spectral analysis, and filter design using Python .
+* [Signal Processing](https://github.com/edupaziani/SignalProcessing) - Studies on sampling, spectral analysis, and filter design using Python .
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupaziani&layout=compact)](https://github.com/edupaziani/edupaziani)
